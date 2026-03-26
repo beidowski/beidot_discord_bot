@@ -50,12 +50,6 @@ Follow these steps to set up the bot locally:
    CLIENT_ID=your_client_id_here
    GUILD_ID=your_guild_id_here
    ```
-3. **Configure Environment: Create a .env file in the root directory and add your credentials:**
-   ```bash
-   DISCORD_TOKEN=your_token_here
-   CLIENT_ID=your_client_id_here
-   GUILD_ID=your_guild_id_here
-   ```
 3. **Run the bot:**
    ```bash
     node bot.js
