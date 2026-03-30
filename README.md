@@ -52,7 +52,7 @@ Follow these steps to set up the bot locally:
    ```
 3. **Run the bot:**
    ```bash
-    node bot.js
+    node beidot.js
    ```
 
 ---
