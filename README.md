@@ -37,7 +37,7 @@ Follow these steps to set up the bot locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/username/beidot.git](https://github.com/username/beidot.git)
+   git clone https://github.com/beidowski/beidot.git
    cd beidot
    ```
 2. **Install dependencies:**
